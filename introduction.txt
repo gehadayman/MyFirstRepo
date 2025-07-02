@@ -1,4 +1,6 @@
-## Brief Introduction About Myself
-Hi, my name is [Your Name], and I’m passionate about learning software development. I have a background in [Your Field] and I’m currently learning Git and GitHub to improve my workflow and collaboration skills.
+# Brief Introduction About Myself
 
-I’m excited to start building real-world projects and contribute to open-source. This repository is my first step toward that journey!
+My name is Gehad. I am currently exploring software development and learning how to use GitHub for version control.
+
+I am passionate about technology and eager to improve my skills by working on practical projects and collaborating with others in the developer community.
+

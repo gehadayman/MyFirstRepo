@@ -1,6 +1,5 @@
-# Brief Introduction About Myself
+#Brief Introduction About Myself
 
-My name is Gehad. I am currently exploring software development and learning how to use GitHub for version control.
+My name is Gehad Ayman. I graduated from the Faculty of Law and I'm passionate about technology and software engineering. I've been actively learning about backend development, Git, and cloud tools through the ALX program.
 
-I am passionate about technology and eager to improve my skills by working on practical projects and collaborating with others in the developer community.
-
+In my free time, I enjoy learning new skills and challenging myself through real projects. I'm working hard to become a Cloud Solutions Architect and build useful tools that can make people’s lives easier.

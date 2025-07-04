@@ -1,0 +1,9 @@
+My Personal and Academic Goals for Next Year
+
+1. Complete the ALX Software Engineering track and specialize in Cloud or Backend.
+2. Earn the AWS Certified Solutions Architect Associate certification.
+3. Build 2-3 real-world projects and host them online in my portfolio.
+4. Contribute to at least one open-source project on GitHub.
+5. Improve my command of Linux, Git, and Bash scripting.
+6. Attend local or online tech meetups to grow my network.
+

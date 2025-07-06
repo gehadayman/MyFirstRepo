@@ -1,0 +1,1 @@
+So far in this course, I have learned how to use Git to manage code changes efficiently. I now understand how to clone repositories, make edits locally, commit changes, and push updates to GitHub. This workflow helps developers collaborate smoothly and track the history of their projects.
